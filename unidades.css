@@ -1,7 +1,9 @@
-.sin-subrrayado {
-    text-decoration: none;
+#enlace-principal {
+    color: green;
+    text-decoration: green wavy underline;
 }
 
-a {
-    text-decoration: purple underline;
+.sin-subrrayado {
+    color: blue;
+    text-decoration: none;
 }
