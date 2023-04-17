@@ -1,5 +1,8 @@
 .imagen-de-gato {
     width: 200px;
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid dashed dotted double;
 }
 
 
