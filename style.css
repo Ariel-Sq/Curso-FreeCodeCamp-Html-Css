@@ -1,3 +1,26 @@
-body {
-    color: chocolate;
+/* Hexadecimal code*/
+
+/* 0-9 A-F*/
+/* #00     00     00*/
+   /*rojo  verde  azul*/
+
+div {
+        background-color: rgb(0, 255, 255) ;
+    }
+
+h2 {
+    color: rgb(255, 0, 0)
 }
+
+img {
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #0f0;
+}
+
+a {
+    color: rgb(115, 11, 115);
+    text-decoration: none;
+}
+
